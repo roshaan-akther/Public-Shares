@@ -1,5 +1,7 @@
 # **Complete Resource Manual: From Stage 0 to Full Competency**
 
+##  If any links are not works or outdated, conduct a internet search with its Name !
+
 This manual will guide you through your learning journey from **absolute beginner** to **full competency** in programming and software development. It includes everything you need, from computer basics to advanced skills like machine learning, mobile app development, and more.
 
 ---
