@@ -1,3 +1,3 @@
-Physics Material Guide
+### Physics Material Guide
 
 https://www.susanrigetti.com/physics
